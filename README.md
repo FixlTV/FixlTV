@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ## Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=fixltv&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fixltv&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fixltv&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
